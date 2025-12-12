@@ -36,6 +36,7 @@ public class CP210xIds
             createDevice(0x10C4, 0x804E),
             createDevice(0x10C4, 0x8053),
             createDevice(0x10C4, 0x8054),
+            createDevice(0x10C4, 0x8056),
             createDevice(0x10C4, 0x8066),
             createDevice(0x10C4, 0x806F),
             createDevice(0x10C4, 0x807A),
